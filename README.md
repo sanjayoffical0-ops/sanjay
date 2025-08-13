@@ -1,1 +1,1 @@
-sampl-python
+sample-python
